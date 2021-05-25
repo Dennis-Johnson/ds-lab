@@ -1,7 +1,6 @@
 """reducer.py"""
 
 import sys
-from operator import itemgetter
 
 current_word = None
 current_count = 0
