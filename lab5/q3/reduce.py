@@ -1,3 +1,6 @@
+'''
+reduce.py
+'''
 import fileinput
 
 creditor_count = 0
